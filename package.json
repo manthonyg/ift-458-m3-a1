@@ -1,0 +1,15 @@
+{
+  "name": "module3-assignment1",
+  "version": "1.0.0",
+  "description": "Assignment 1 Module 3 for IFT 458",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Grandori",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
